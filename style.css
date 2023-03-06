@@ -290,7 +290,7 @@ height: 42px;
   }
   .container{
     display: flex;
-    flex-direction: column;
+    /* flex-direction: column; */
    
   }
   .child1{
